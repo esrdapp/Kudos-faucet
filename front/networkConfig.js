@@ -79,10 +79,10 @@ const networkConfig = {
     smartContractPollTime: 15,
     currencyName: 'xDai',
     explorerUrl: {
-      tx: 'https://blockscout.com/poa/dai'
+      tx: 'https://blockscout.com/xdai/mainnet/'
     },
     networkName: 'xDai',
-    rpcUrl: 'https://dai.poa.network'
+    rpcUrl: 'https://rpc.xdaichain.com'
   },
   netId77: {
     verifyingContract: '0x3b6578d5a24e16010830bf6443bc9223d6b53480',
