@@ -37,7 +37,7 @@ export default {
     htmlAttrs: {
       lang: 'en'
     },
-    title: 'ERC20 Token Faucet',
+    title: 'EsportsRef Kudos Token Faucet',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -45,7 +45,7 @@ export default {
         hid: 'description',
         name: 'description',
         content:
-          'An ERC20 token faucet on the Ethereum mainnet, and Ropsten, Kovan, Rinkeby and Görli testnets.'
+          'An ERC20 token faucet on Gnosis Chain, allowing you to claim Kudos tokens for the EsportsRef.com DApp.'
       },
       {
         hid: 'og:title',
@@ -70,7 +70,7 @@ export default {
       {
         hid: 'og:image',
         property: 'og:image',
-        content: 'https://erc20faucet.com/fb.png'
+        content: 'https://esportsref.com/fb.png'
       },
       {
         hid: 'description',
